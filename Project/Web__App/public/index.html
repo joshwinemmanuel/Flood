@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <script src='https://cdn.firebase.com/js/client/2.2.1/firebase.js'></script>
+  <script src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js'></script>
+  <script src="https://www.gstatic.com/firebasejs/8.7.0/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/3.1.0/firebase.js"></script>
+  
+
+  
+
+<style>
+div.relative {
+  position: relative;
+  background-image: url("123.jpg");
+  width: 1920px;
+  height: 1020px;
+  border: 3px solid #73AD21;
+} 
+
+.absolute 
+{
+  position: absolute;
+  display : "hide";
+  top: 552px;left:578px;background-color: rgba(255, 0, 0, 1);border-radius: 100%;animation: pulse-red 2s infinite;height: 15px;width: 15px;
+ 
+}
+
+.circle {
+  
+}
+
+
+@keyframes pulse-red {
+  0% {
+    transform: scale(0.9);
+    box-shadow: 0 0 0 0 rgba(255, 0, 0, 0.7);
+  }
+  
+  70% {
+    transform: scale(1.5);
+    box-shadow: 0 0 0 10px rgba(255, 0, 0, 0);
+  }
+  
+  100% {
+    transform: scale(0.9);
+    box-shadow: 0 0 0 0 rgba(255, 0, 0, 0);
+  }
+}
+
+
+
+
+</style>
+</head>
+<body>
+
+
+<div class="relative">This div element has position: relative;
+  <div id="absolute" class="absolute" style="display:none">
+    
+  </div>
+  <audio id="myaudio" controls autoplay="" preload="auto">
+    <source src="PTT-20221015-WA0064.wav" type="audio/wav">
+  </audio>
+
+</div>
+
+<script>
+ // Your web app's Firebase configuration
+ const firebaseConfig = {
+  apiKey: "AIzaSyAJ0ZkMu2nybAYjTE9dIgfzZfN6WduOcdc",
+  authDomain: "flood-detector-c9726.firebaseapp.com",
+  databaseURL: "https://flood-detector-c9726-default-rtdb.firebaseio.com",
+  projectId: "flood-detector-c9726",
+  storageBucket: "flood-detector-c9726.appspot.com",
+  messagingSenderId: "921825094881",
+  appId: "1:921825094881:web:d04623eb94a7324bd25ba0",
+  measurementId: "G-YY07E26B7M"
+  };
+
+  console.log("Hello world!");
+
+      // Initialize Firebase
+      
+      firebase.initializeApp(firebaseConfig);
+        
+
+        setInterval(counter, 1000);
+
+        function counter() {
+          
+        var firebaseRef = firebase.database().ref().child('test');
+        console.log(firebaseRef);
+        firebaseRef.once("value").then(function(snapshot){
+        var state=snapshot.val();
+          console.log(state.int);
+
+          if (state.int === 2){
+            console.log(state.int);
+            document.getElementById("absolute").style.display = "block";
+            document.getElementById("myaudio").play(); 
+           
+           }
+          else{
+            document.getElementById("absolute").style.display = "none";
+            document.getElementById("myaudio").pause(); 
+           
+           }
+          });
+        };
+ 
+   
+
+
+ 
+    </script>
+
+
+</body>
+</html>

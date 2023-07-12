@@ -1,0 +1,59 @@
+C:\Users\Youtube Environment\source\repos\fireConfigVB live data\fireConfigVB\bin\Debug\fireConfigVB.exe.config
+C:\Users\Youtube Environment\source\repos\fireConfigVB live data\fireConfigVB\bin\Debug\fireConfigVB.exe
+C:\Users\Youtube Environment\source\repos\fireConfigVB live data\fireConfigVB\bin\Debug\fireConfigVB.pdb
+C:\Users\Youtube Environment\source\repos\fireConfigVB live data\fireConfigVB\bin\Debug\fireConfigVB.xml
+C:\Users\Youtube Environment\source\repos\fireConfigVB live data\fireConfigVB\bin\Debug\FireSharp.dll
+C:\Users\Youtube Environment\source\repos\fireConfigVB live data\fireConfigVB\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Youtube Environment\source\repos\fireConfigVB live data\fireConfigVB\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Youtube Environment\source\repos\fireConfigVB live data\fireConfigVB\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Youtube Environment\source\repos\fireConfigVB live data\fireConfigVB\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Youtube Environment\source\repos\fireConfigVB live data\fireConfigVB\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Youtube Environment\source\repos\fireConfigVB live data\fireConfigVB\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Youtube Environment\source\repos\fireConfigVB live data\fireConfigVB\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Youtube Environment\source\repos\fireConfigVB live data\fireConfigVB\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Youtube Environment\source\repos\fireConfigVB live data\fireConfigVB\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Youtube Environment\source\repos\fireConfigVB live data\fireConfigVB\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Youtube Environment\source\repos\fireConfigVB live data\fireConfigVB\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Youtube Environment\source\repos\fireConfigVB live data\fireConfigVB\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Youtube Environment\source\repos\fireConfigVB live data\fireConfigVB\obj\Debug\fireConfigVB.vbproj.App.config
+C:\Users\Youtube Environment\source\repos\fireConfigVB live data\fireConfigVB\obj\Debug\fireConfigVB.vbprojAssemblyReference.cache
+C:\Users\Youtube Environment\source\repos\fireConfigVB live data\fireConfigVB\obj\Debug\fireConfigVB.Form1.resources
+C:\Users\Youtube Environment\source\repos\fireConfigVB live data\fireConfigVB\obj\Debug\fireConfigVB.Resources.resources
+C:\Users\Youtube Environment\source\repos\fireConfigVB live data\fireConfigVB\obj\Debug\fireConfigVB.vbproj.GenerateResource.cache
+C:\Users\Youtube Environment\source\repos\fireConfigVB live data\fireConfigVB\obj\Debug\fireConfigVB.vbproj.CoreCompileInputs.cache
+C:\Users\Youtube Environment\source\repos\fireConfigVB live data\fireConfigVB\obj\Debug\fireConfigVB.vbproj.CopyComplete
+C:\Users\Youtube Environment\source\repos\fireConfigVB live data\fireConfigVB\obj\Debug\fireConfigVB.exe
+C:\Users\Youtube Environment\source\repos\fireConfigVB live data\fireConfigVB\obj\Debug\fireConfigVB.xml
+C:\Users\Youtube Environment\source\repos\fireConfigVB live data\fireConfigVB\obj\Debug\fireConfigVB.pdb
+C:\Users\joshn\Desktop\fireConfigVB live data\fireConfigVB live data\fireConfigVB\bin\Debug\fireConfigVB.exe.config
+C:\Users\joshn\Desktop\fireConfigVB live data\fireConfigVB live data\fireConfigVB\bin\Debug\fireConfigVB.exe
+C:\Users\joshn\Desktop\fireConfigVB live data\fireConfigVB live data\fireConfigVB\bin\Debug\fireConfigVB.pdb
+C:\Users\joshn\Desktop\fireConfigVB live data\fireConfigVB live data\fireConfigVB\bin\Debug\fireConfigVB.xml
+C:\Users\joshn\Desktop\fireConfigVB live data\fireConfigVB live data\fireConfigVB\bin\Debug\FireSharp.dll
+C:\Users\joshn\Desktop\fireConfigVB live data\fireConfigVB live data\fireConfigVB\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\joshn\Desktop\fireConfigVB live data\fireConfigVB live data\fireConfigVB\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\joshn\Desktop\fireConfigVB live data\fireConfigVB live data\fireConfigVB\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\joshn\Desktop\fireConfigVB live data\fireConfigVB live data\fireConfigVB\bin\Debug\Newtonsoft.Json.dll
+C:\Users\joshn\Desktop\fireConfigVB live data\fireConfigVB live data\fireConfigVB\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\joshn\Desktop\fireConfigVB live data\fireConfigVB live data\fireConfigVB\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\joshn\Desktop\fireConfigVB live data\fireConfigVB live data\fireConfigVB\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\joshn\Desktop\fireConfigVB live data\fireConfigVB live data\fireConfigVB\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\joshn\Desktop\fireConfigVB live data\fireConfigVB live data\fireConfigVB\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\joshn\Desktop\fireConfigVB live data\fireConfigVB live data\fireConfigVB\bin\Debug\Newtonsoft.Json.xml
+C:\Users\joshn\Desktop\fireConfigVB live data\fireConfigVB live data\fireConfigVB\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\joshn\Desktop\fireConfigVB live data\fireConfigVB live data\fireConfigVB\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\joshn\Desktop\fireConfigVB live data\fireConfigVB live data\fireConfigVB\obj\Debug\fireConfigVB.vbproj.App.config
+C:\Users\joshn\Desktop\fireConfigVB live data\fireConfigVB live data\fireConfigVB\obj\Debug\fireConfigVB.vbproj.AssemblyReference.cache
+C:\Users\joshn\Desktop\fireConfigVB live data\fireConfigVB live data\fireConfigVB\obj\Debug\fireConfigVB.vbproj.SuggestedBindingRedirects.cache
+C:\Users\joshn\Desktop\fireConfigVB live data\fireConfigVB live data\fireConfigVB\obj\Debug\fireConfigVB.Form1.resources
+C:\Users\joshn\Desktop\fireConfigVB live data\fireConfigVB live data\fireConfigVB\obj\Debug\fireConfigVB.Resources.resources
+C:\Users\joshn\Desktop\fireConfigVB live data\fireConfigVB live data\fireConfigVB\obj\Debug\fireConfigVB.vbproj.GenerateResource.cache
+C:\Users\joshn\Desktop\fireConfigVB live data\fireConfigVB live data\fireConfigVB\obj\Debug\fireConfigVB.vbproj.CoreCompileInputs.cache
+C:\Users\joshn\Desktop\fireConfigVB live data\fireConfigVB live data\fireConfigVB\obj\Debug\fireConfigVB.vbproj.CopyComplete
+C:\Users\joshn\Desktop\fireConfigVB live data\fireConfigVB live data\fireConfigVB\obj\Debug\fireConfigVB.exe
+C:\Users\joshn\Desktop\fireConfigVB live data\fireConfigVB live data\fireConfigVB\obj\Debug\fireConfigVB.xml
+C:\Users\joshn\Desktop\fireConfigVB live data\fireConfigVB live data\fireConfigVB\obj\Debug\fireConfigVB.pdb
+C:\Users\joshn\Desktop\fireConfigVB live data\fireConfigVB live data\fireConfigVB\bin\Debug\fireConfigVB.exe.manifest
+C:\Users\joshn\Desktop\fireConfigVB live data\fireConfigVB live data\fireConfigVB\bin\Debug\fireConfigVB.application
+C:\Users\joshn\Desktop\fireConfigVB live data\fireConfigVB live data\fireConfigVB\obj\Debug\fireConfigVB.exe.manifest
+C:\Users\joshn\Desktop\fireConfigVB live data\fireConfigVB live data\fireConfigVB\obj\Debug\fireConfigVB.application
